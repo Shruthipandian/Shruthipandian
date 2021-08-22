@@ -5,20 +5,15 @@
 
 
 ## 🙋‍♂️ About Me
-
+Full Stack Developer with hands-on experience designing, developing, and implementing applications and solutions using a range of technologies and programming languages. Seeking to leverage broad development experience and hands-on technical expertise in a challenging role as a Full-stack Developer.
 
 
 - 🔭 I’m currently working on **fashiolicious website**
 
-- 🌱 I’m currently learning **building a website**
-
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 All of my projects are available at **[My Portfolio]**
 
 - 📫 How to reach me **shruthi.pandian.99@gmail.com**
 
-- ⚡ Fun fact **I play games and design garments**
 
 ## 🚀 Languages and Tools:
 
